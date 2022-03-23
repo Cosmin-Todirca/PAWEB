@@ -1,0 +1,30 @@
+/*https://colorhunt.co/palette/3a3845f7ccacc69b7b826f66
+e important sa pun doua .. ca sa ma duca cu o unitate in spate.
+*/
+img {
+  border-radius: 50%;
+  width: 20%;
+}
+body {
+  background-color: #f5d7bf;
+}
+h1 {
+  color: #201a44;
+  font-family: Roboto;
+  font-size: 500;
+}
+.list1 {
+  color: #361204;
+  font-family: Roboto;
+  font-size: 300;
+  list-style-image: url("../imag/bullet3-2.png");
+}
+.list2 {
+  color: #2f1703;
+  font-family: Roboto;
+  font-size: 100;
+  list-style-image: url("../imag/smiley.png");
+}
+footer {
+  font-size: 30px;
+}
